@@ -14,7 +14,7 @@ public class Application {
 	@RequestMapping("/")
     @ResponseBody
     String home() {
-      return "Hello World!";
+      return "Welcome to Axiata Digital Service Indonesia!";
     }
 
 	public static void main(String[] args) {
